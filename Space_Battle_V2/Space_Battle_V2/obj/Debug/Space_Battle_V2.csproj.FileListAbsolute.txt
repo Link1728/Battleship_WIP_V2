@@ -1,0 +1,6 @@
+c:\users\linkf\onedrive\documents\visual studio 2015\Projects\Space_Battle_V2\Space_Battle_V2\bin\Debug\Space_Battle_V2.exe.config
+c:\users\linkf\onedrive\documents\visual studio 2015\Projects\Space_Battle_V2\Space_Battle_V2\bin\Debug\Space_Battle_V2.exe
+c:\users\linkf\onedrive\documents\visual studio 2015\Projects\Space_Battle_V2\Space_Battle_V2\bin\Debug\Space_Battle_V2.pdb
+c:\users\linkf\onedrive\documents\visual studio 2015\Projects\Space_Battle_V2\Space_Battle_V2\obj\Debug\Space_Battle_V2.csprojResolveAssemblyReference.cache
+c:\users\linkf\onedrive\documents\visual studio 2015\Projects\Space_Battle_V2\Space_Battle_V2\obj\Debug\Space_Battle_V2.exe
+c:\users\linkf\onedrive\documents\visual studio 2015\Projects\Space_Battle_V2\Space_Battle_V2\obj\Debug\Space_Battle_V2.pdb
